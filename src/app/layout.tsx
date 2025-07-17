@@ -30,7 +30,7 @@ export default function RootLayout({
         <nav style={{ backgroundColor: "#f3f4f6", padding: "1rem" }}>
           <ul style={{ display: "flex", gap: "1rem", listStyle: "none" }}>
             <li>
-              <Link href="/profil">informasi</Link>
+              <Link href="/profil">Informasi</Link>
             </li>
             <li>
               <Link href="/about">Tentang</Link>
